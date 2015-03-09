@@ -1,0 +1,2 @@
+CREATE SCHEMA api;
+SET SEARCH_PATH TO api, public;
